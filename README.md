@@ -1,0 +1,1 @@
+This project attempts to answer the question, 'Where It Pays To Attend College?', based on a dataset of salaries of graduates from different colleges(school types). The school types in the data are Liberal Arts, Ivy League, Engineering, Party and State. The data was obtained from Wall Street Journal based on data from Payscale, Inc and can be obtained from www.kaggle.com
